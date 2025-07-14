@@ -17,8 +17,8 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(
             name: "ExpressionUI",
-            url: "https://-/storage/v1/object/framework/v0_0_7/ExpressionUI.xcframework.zip",
-            checksum: "-"
+            url: "https://tbgamvunxihiwcptkspi.supabase.co/storage/v1/object/public/framework/2025-07-14T19-14-45/ExpressionUI.xcframework.zip",
+            checksum: "4659c4363ed635bda857783bfdca80ccf14e35c030aee5ca459ddc794cd0b10b"
         )
     ]
 )
